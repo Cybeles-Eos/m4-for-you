@@ -1,0 +1,14 @@
+{
+  "name": "ForMyLove",
+  "version": "0.1.0",
+  "description": "Happy Valentine's Day, darling",
+  "scripts": {
+    "start": "npx serve ."
+  },
+  "author": "WangJohn",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cybeles-eos/for-my-love"
+  }
+}
