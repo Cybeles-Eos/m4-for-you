@@ -90,25 +90,22 @@ window.__DIALOG__ = {
                 "<img src='img/ahon_coffee_pic_with_u.jpeg'>",
                 'Hindi ko talaga expected, grabe yung saya ko hindi ko sya ma explain after naten mag ahon coffee,',
                 'kahit sa McDo mona sinabe mahal, masaya at nakaka excite yung pasabog mo🥰',
-                'I lovee you mahal, happy monthsary satin 😘🩵 more months to come 🥰',
+                'I lovee you mahal, happy monthsary satin 😘 more months to come 🥰',
                 'Gustu kolang uli, maramdaman yung yes na sinabe mo sakin🥰',
                 'Will you accept me as your partner and future wifey forever 🥰',
             ]
         ],
         responses: [{
-            content: 'Yes, I will',
+            content: 'Yes, I accept',
             nextAuthor: ['0001']
         }]
     }, {
         id: '0001',
         details: [
             [
-                "<img src='img/kiss-my-princess.png'>",
-                "I'm so happy, darling 😁",
-                'Every day we see each other from now on 😍',
-                "You'll always be my first love 😘",
-                'Every promise I made to you 😙',
-                "I'll keep them all 😉"
+                "<img src='img/tenor.gif'>",
+                "Thankyoouu mahal🥰, I will always choose you and promise to take good care of you my future wifey, Happy monthsary again aking binibini 😘, I love youu",
+                "You'll always be my beutiful big gurl love 😘",
             ]
         ]
     }],
