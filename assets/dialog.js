@@ -105,7 +105,7 @@ window.__DIALOG__ = {
             [
                 "<img src='img/tenor.gif'>",
                 "Thankyoouu mahal🥰, I will always choose you and promise to take good care of you my future wifey, Happy monthsary again aking binibini 😘, I love youu",
-                "You'll always be my beutiful big gurl love 😘",
+                "You'll always be my beutiful big gurl love 😘", 
             ]
         ]
     }],
